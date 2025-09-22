@@ -1,0 +1,36 @@
+.container {
+    width: 60vw ;
+    margin: 0 auto;
+    border: solid #000;
+    padding: 50px;
+}
+.hr {
+    border: 1px solid #000;
+}
+.phase {
+    color: green;
+    
+}
+.mail {
+   text-decoration: none;
+}
+.social-icon {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.jobs {
+    color: #110dfc;
+}
+.li {
+    list-style-type: square;
+    color: #000000; /* Changed to pink, use any color you prefer */
+}
+.social-links {
+    display: flex;
+    gap: 10px;
+}
+.h5 , .li , .h1, .phase {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
